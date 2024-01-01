@@ -69,6 +69,12 @@ Key Points:
 - Step-by-step guide on Terraform commands, including initialization, planning, applying changes, and destroying infrastructure, showcasing a template-driven approach.
 - Learn about the backend code block in Terraform's main.tf file, emphasizing the need for creating a storage account and container for storing infrastructure files, enhancing   repeatability and consistency.
 
+[Mastering .NET Web App Deployment: A Comprehensive Guide with Azure DevOps and Azure Pipelines]( https://github.com/akpatiudo/dotnetdevops)
+key Points:
+- Create a new Azure DevOps project for your .NET web app.
+- Configure CI and CD pipelines for automated builds and deployments.
+- Monitor code changes and automatically trigger pipelines.
+- Ensure testing integration for code quality and reliability.
 
 ### Socials
 
