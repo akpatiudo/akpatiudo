@@ -69,12 +69,21 @@ Key Points:
 - Step-by-step guide on Terraform commands, including initialization, planning, applying changes, and destroying infrastructure, showcasing a template-driven approach.
 - Learn about the backend code block in Terraform's main.tf file, emphasizing the need for creating a storage account and container for storing infrastructure files, enhancing   repeatability and consistency.
 
-[Mastering .NET Web App Deployment: A Comprehensive Guide with Azure DevOps and Azure Pipelines]( https://github.com/akpatiudo/dotnetdevops)
+5 [Mastering .NET Web App Deployment: A Comprehensive Guide with Azure DevOps and Azure Pipelines]( https://github.com/akpatiudo/dotnetdevops)
 key Points:
 - Create a new Azure DevOps project for your .NET web app.
 - Configure CI and CD pipelines for automated builds and deployments.
 - Monitor code changes and automatically trigger pipelines.
 - Ensure testing integration for code quality and reliability.
+
+6 [Ansible Server And Nodes Setup with Azure: How To Give SUDO Permission To User, Configure Passwordless Login And Install Ansible Using EPEL Repository.]( https://github.com/akpatiudo/dotnetdevops)
+this guide equips users with the knowledge and instructions needed to establish a basic Ansible infrastructure on Azure, laying the foundation for efficient configuration management and automation within their environment.
+
+7 [Steps to Set Up Prometheus and Grafana on Kubernetes Using Helm]( https://github.com/akpatiudo/dotnetdevops)
+By following these steps, you can easily set up Prometheus and Grafana on Kubernetes using Helm charts, enabling effective monitoring and visualization of your environment.
+
+8 [Deploying a Multi-Container Application to Azure Kubernetes Services]( https://github.com/akpatiudo/dotnetdevops)
+Deploying a multi-container application to Azure Kubernetes Services (AKS) offers a scalable and efficient solution for hosting modern applications
 
 ### Socials
 
