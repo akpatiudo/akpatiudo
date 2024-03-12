@@ -76,7 +76,7 @@ key Points:
 - Monitor code changes and automatically trigger pipelines.
 - Ensure testing integration for code quality and reliability.
 
-6 [Ansible Server And Nodes Setup with Azure: How To Give SUDO Permission To User, Configure Passwordless Login And Install Ansible Using EPEL Repository.]( [https://github.com/akpatiudo/dotnetdevops](https://medium.com/@ebenezerakpati/ansible-server-and-nodes-setup-with-azure-how-to-give-sudo-permission-to-user-configure-959b28c3742c)
+6 [Ansible Server And Nodes Setup with Azure: How To Give SUDO Permission To User, Configure Passwordless Login And Install Ansible Using EPEL Repository(https://medium.com/@ebenezerakpati/ansible-server-and-nodes-setup-with-azure-how-to-give-sudo-permission-to-user-configure-959b28c3742c)
 this guide equips users with the knowledge and instructions needed to establish a basic Ansible infrastructure on Azure, laying the foundation for efficient configuration management and automation within their environment.
 
 7 [Steps to Set Up Prometheus and Grafana on Kubernetes Using Helm]([ https://github.com/akpatiudo/dotnetdevops](https://medium.com/@ebenezerakpati/steps-to-set-up-prometheus-and-grafana-on-kubernetes-using-helm-ca0e5649ed28)
