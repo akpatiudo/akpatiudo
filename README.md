@@ -36,49 +36,33 @@ As a passionate DevOps engineer, I thrive on creating efficient, automated, and 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
-
 <h2>👨‍💻 DevOps Projects:</h2>
 
 1 [Building And Dockernize Node.je Express Web App From Scretch](https://github.com/akpatiudo/Node.js-doc-web-app)
-Key Points:
-- Dockerizing Node.js app.
-- Dependency management with npm.
-- Building and running Docker containers.
-- Testing locally and checking image status.
-- Seamless deployment and development with Docker.
 
 2 [Exploring ARM Templates: Creating And Deploying Azure Web App](https://github.com/akpatiudo/Arm-template)
-Key Points:
-- Leveraging ARM templates for Azure infrastructure.
--  Parameters for dynamic resource naming.
--  API versions and resource configuration.
--  Creation of a parameter file for reusability.
--  Seamless deployment of web app with Azure Resource Manager.
 
 3 [Automating Infrastructure Deployment on Azure Cloud With Terraform and Azure Pipeline](https://github.com/akpatiudo/democli)
-Key Points:
-- Automating the deployment of infrastructure on Azure Cloud using Terraform and Azure Pipeline.
-- Utilizing Terraform's open-source IaC approach, defines and provisions Azure resources in a version-controlled and reproducible manner.
-- Leveraging Azure Pipeline, the project seamlessly integrates continuous integration and continuous delivery workflows. 
-- The synergy of Terraform and Azure Pipeline enhances the speed of delivery, ensuring consistency, repeatability, and reliability in infrastructure deployment.
 
 4 [Harnessing Infrastructure as Code with Visual Studio Code and Terraform](https://github.com/akpatiudo/infrastructure)
-Key Points:
-- Explore the synergy of Visual Studio Code and Terraform, transforming infrastructure management in modern software development.
-- Automating infrastructure changes, and expressing infrastructure definitions in a declarative language.
-- Understand the Azure provider configuration in Terraform, utilizing aliases, sources, and versions to set up and manage Microsoft Azure infrastructure.. 
-- Step-by-step guide on Terraform commands, including initialization, planning, applying changes, and destroying infrastructure, showcasing a template-driven approach.
-- Learn about the backend code block in Terraform's main.tf file, emphasizing the need for creating a storage account and container for storing infrastructure files, enhancing   repeatability and consistency.
 
 5 [Provisioning Azure Resources with Terraform and Visual Studio Code: A Comprehensive Guide](https://github.com/akpatiudo/terraform-azure-resources)
-In this guide, I have demonstrated how to provision essential Azure resources using Terraform and Visual Studio Code. By leveraging infrastructure as code principles, developers and DevOps engineers can automate the deployment and management of Azure resources, leading to improved efficiency, consistency, and scalability in cloud environments.
 
 6 [Mastering .NET Web App Deployment: A Comprehensive Guide with Azure DevOps and Azure Pipelines]( https://github.com/akpatiudo/dotnetdevops)
-key Points:
-- Create a new Azure DevOps project for your .NET web app.
-- Configure CI and CD pipelines for automated builds and deployments.
-- Monitor code changes and automatically trigger pipelines.
-- Ensure testing integration for code quality and reliability.
+
+7 [Ansible Roles for Prometheus, Grafana and Nginx Reverse Proxy](https://medium.com/@ebenezerakpati/ansible-roles-for-prometheus-grafana-and-nginx-reverse-proxy-3989067d6588)
+
+8 [Guide to Setting Up and Automating Tasks with Ansible](https://medium.com/@ebenezerakpati/guide-to-setting-up-and-automating-tasks-with-ansible-5ed31daab815)
+
+9 [Deploying a Web Server with Ansible](https://medium.com/@ebenezerakpati/deploying-a-web-server-with-ansible-7f7770fdcbd3)
+
+10 [Securely Accessing Provisioned Azure Resources with Key Vault in Azure Data Factory](https://medium.com/@ebenezerakpati/securely-accessing-provisioned-azure-resources-with-key-vault-in-azure-data-factory-cde9f66d7657)
+
+[Ansible Server And Nodes Setup with Azure: How To Give SUDO Permission To User, Configure Passwordless Login And Install Ansible Using EPEL Repository](https://medium.com/@ebenezerakpati/ansible-server-and-nodes-setup-with-azure-how-to-give-sudo-permission-to-user-configure-959b28c3742c)
+
+11 [Deploying a Multi-Container Application to Azure Kubernetes Services](https://medium.com/@ebenezerakpati/deploying-a-multi-container-application-to-azure-kubernetes-services-7838df11d14e)
+
+12 [Steps to Set Up Prometheus and Grafana on Kubernetes Using Helm](https://medium.com/@ebenezerakpati/steps-to-set-up-prometheus-and-grafana-on-kubernetes-using-helm-ca0e5649ed28)
 
 ### Socials
 
