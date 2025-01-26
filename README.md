@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ebenezer Udokamma Akpati
 ================================================================================================================================================
 
-DevOps Engineer
+DevOps Engineer ||IT Professonal
 ---------------
 
 As a passionate DevOps engineer, I thrive on creating efficient, automated, and scalable solutions for modern software development. My expertise lies in a variety of tools and technologies, enabling seamless integration and deployment processes. Here's a glimpse of what I bring to the table:
