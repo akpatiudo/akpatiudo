@@ -58,11 +58,11 @@ As a passionate DevOps engineer, I thrive on creating efficient, automated, and 
 
 10 [Securely Accessing Provisioned Azure Resources with Key Vault in Azure Data Factory](https://medium.com/@ebenezerakpati/securely-accessing-provisioned-azure-resources-with-key-vault-in-azure-data-factory-cde9f66d7657)
 
-[Ansible Server And Nodes Setup with Azure: How To Give SUDO Permission To User, Configure Passwordless Login And Install Ansible Using EPEL Repository](https://medium.com/@ebenezerakpati/ansible-server-and-nodes-setup-with-azure-how-to-give-sudo-permission-to-user-configure-959b28c3742c)
+11 [Ansible Server And Nodes Setup with Azure: How To Give SUDO Permission To User, Configure Passwordless Login And Install Ansible Using EPEL Repository](https://medium.com/@ebenezerakpati/ansible-server-and-nodes-setup-with-azure-how-to-give-sudo-permission-to-user-configure-959b28c3742c)
 
-11 [Deploying a Multi-Container Application to Azure Kubernetes Services](https://medium.com/@ebenezerakpati/deploying-a-multi-container-application-to-azure-kubernetes-services-7838df11d14e)
+12 [Deploying a Multi-Container Application to Azure Kubernetes Services](https://medium.com/@ebenezerakpati/deploying-a-multi-container-application-to-azure-kubernetes-services-7838df11d14e)
 
-12 [Steps to Set Up Prometheus and Grafana on Kubernetes Using Helm](https://medium.com/@ebenezerakpati/steps-to-set-up-prometheus-and-grafana-on-kubernetes-using-helm-ca0e5649ed28)
+13 [Steps to Set Up Prometheus and Grafana on Kubernetes Using Helm](https://medium.com/@ebenezerakpati/steps-to-set-up-prometheus-and-grafana-on-kubernetes-using-helm-ca0e5649ed28)
 
 ### Socials
 
