@@ -40,9 +40,11 @@ As a passionate DevOps engineer, I thrive on creating efficient, automated, and 
 
 [Simplified Guide: Wireshark Filters for Network Analysis with Practical Exercises](https://github.com/akpatiudo/wireshark-lab)
 
-1 Working on:
+[osTicket Helpdesk Ticketing System Lab: From Installation to Ticket Lifecycle](https://github.com/akpatiudo/oSticket-lab)
 
-2 osTicket Systems
+[osTicket Post Installation Configuration](https://github.com/akpatiudo/osTicket_post-Installation)
+
+1 Working on:
 
 3 Active Directory
 
