@@ -44,6 +44,8 @@ As a passionate DevOps engineer, I thrive on creating efficient, automated, and 
 
 [osTicket Post Installation Configuration](https://github.com/akpatiudo/osTicket_post-Installation)
 
+[osTicket Lifecycle: Intake And Resolution](https://github.com/akpatiudo/osTicket-lifecycle)
+
 1 Working on:
 
 3 Active Directory
