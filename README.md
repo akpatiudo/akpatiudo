@@ -46,9 +46,8 @@ As a passionate DevOps engineer, I thrive on creating efficient, automated, and 
 
 [osTicket Lifecycle: Intake And Resolution](https://github.com/akpatiudo/osTicket-lifecycle)
 
-1 Working on:
+[Configuring On-premises Active Directory In The Cloud (Azure)](https://github.com/akpatiudo/Active-directory/tree/main)
 
-3 Active Directory
 
 4 Network File Share and Permission
 
