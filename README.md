@@ -25,9 +25,8 @@ As a passionate DevOps engineer, I thrive on creating efficient, automated, and 
 - **Collaborative Development:** Enabling teams to collaborate seamlessly through efficient version control and code collaboration practices.
 
 
-* 🌍  I'm based in Dover, United Kingdom
+* 🌍  I'm based in Memphis,TN USA
 * ✉️  You can contact me at [ebenezerakpati@gmail.com](mailto:ebenezerakpati@gmail.com)
-* 🧠  I'm learning Ansible
 * 🤝  I'm open to collaborating on DevOps Projects
 
 ### Skills
@@ -37,8 +36,15 @@ As a passionate DevOps engineer, I thrive on creating efficient, automated, and 
 </p>
 
 <h2>👨‍💻 IT Professional Projects:</h2>
-
+<h2> Cloud/Network Projects:</h2>
+## Network IN Azure
+[Configuring On-premises Active Directory In The Cloud (Azure)](https://github.com/akpatiudo/Active-directory/tree/main)
+[Understanding DNS – A Hands-On Lab for Beginners](https://github.com/akpatiudo/build-DNS/tree/main)
 [Simplified Guide: Wireshark Filters for Network Analysis with Practical Exercises](https://github.com/akpatiudo/wireshark-lab)
+[Shared Network Files And Permissions in Azure](https://github.com/akpatiudo/shared-network-file/tree/main)
+
+
+
 
 [osTicket Helpdesk Ticketing System Lab: From Installation to Ticket Lifecycle](https://github.com/akpatiudo/oSticket-lab)
 
@@ -47,6 +53,7 @@ As a passionate DevOps engineer, I thrive on creating efficient, automated, and 
 [osTicket Lifecycle: Intake And Resolution](https://github.com/akpatiudo/osTicket-lifecycle)
 
 [Configuring On-premises Active Directory In The Cloud (Azure)](https://github.com/akpatiudo/Active-directory/tree/main)
+
 
 
 4 Network File Share and Permission
