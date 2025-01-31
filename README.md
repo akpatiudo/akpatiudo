@@ -36,55 +36,51 @@ As a passionate DevOps engineer, I thrive on creating efficient, automated, and 
 </p>
 
 <h2>👨‍💻 IT Professional Projects:</h2>
-<h2> Cloud/Network Projects:</h2>
-## Network IN Azure
-[Configuring On-premises Active Directory In The Cloud (Azure)](https://github.com/akpatiudo/Active-directory/tree/main)
-[Understanding DNS – A Hands-On Lab for Beginners](https://github.com/akpatiudo/build-DNS/tree/main)
-[Simplified Guide: Wireshark Filters for Network Analysis with Practical Exercises](https://github.com/akpatiudo/wireshark-lab)
-[Shared Network Files And Permissions in Azure](https://github.com/akpatiudo/shared-network-file/tree/main)
 
+### Network IN Azure
+-  [Configuring On-premises Active Directory In The Cloud (Azure)](https://github.com/akpatiudo/Active-directory/tree/main)
 
+-  [Understanding DNS – A Hands-On Lab for Beginners](https://github.com/akpatiudo/build-DNS/tree/main)
 
+-  [Simplified Guide: Wireshark Filters for Network Analysis with Practical Exercises](https://github.com/akpatiudo/wireshark-lab)
 
-[osTicket Helpdesk Ticketing System Lab: From Installation to Ticket Lifecycle](https://github.com/akpatiudo/oSticket-lab)
+-  [Shared Network Files And Permissions in Azure](https://github.com/akpatiudo/shared-network-file/tree/main)
 
-[osTicket Post Installation Configuration](https://github.com/akpatiudo/osTicket_post-Installation)
+### osTicket (Help Desk Ticketing System)
+-  [osTicket Helpdesk Ticketing System Lab: From Installation to Ticket Lifecycle](https://github.com/akpatiudo/oSticket-lab)
 
-[osTicket Lifecycle: Intake And Resolution](https://github.com/akpatiudo/osTicket-lifecycle)
+-  [osTicket Post Installation Configuration](https://github.com/akpatiudo/osTicket_post-Installation)
 
-[Configuring On-premises Active Directory In The Cloud (Azure)](https://github.com/akpatiudo/Active-directory/tree/main)
+-  [osTicket Lifecycle: Intake And Resolution](https://github.com/akpatiudo/osTicket-lifecycle)
 
-
-
-4 Network File Share and Permission
 
 <h2>👨‍💻 DevOps Projects:</h2>
 
-1 [Building And Dockernize Node.je Express Web App From Scretch](https://github.com/akpatiudo/Node.js-doc-web-app)
+-  [Building And Dockernize Node.je Express Web App From Scretch](https://github.com/akpatiudo/Node.js-doc-web-app)
 
-2 [Exploring ARM Templates: Creating And Deploying Azure Web App](https://github.com/akpatiudo/Arm-template)
+-  [Exploring ARM Templates: Creating And Deploying Azure Web App](https://github.com/akpatiudo/Arm-template)
 
-3 [Automating Infrastructure Deployment on Azure Cloud With Terraform and Azure Pipeline](https://github.com/akpatiudo/democli)
+-  [Automating Infrastructure Deployment on Azure Cloud With Terraform and Azure Pipeline](https://github.com/akpatiudo/democli)
 
-4 [Harnessing Infrastructure as Code with Visual Studio Code and Terraform](https://github.com/akpatiudo/infrastructure)
+-  [Harnessing Infrastructure as Code with Visual Studio Code and Terraform](https://github.com/akpatiudo/infrastructure)
 
-5 [Provisioning Azure Resources with Terraform and Visual Studio Code: A Comprehensive Guide](https://github.com/akpatiudo/terraform-azure-resources)
+-  [Provisioning Azure Resources with Terraform and Visual Studio Code: A Comprehensive Guide](https://github.com/akpatiudo/terraform-azure-resources)
 
-6 [Mastering .NET Web App Deployment: A Comprehensive Guide with Azure DevOps and Azure Pipelines]( https://github.com/akpatiudo/dotnetdevops)
+-  [Mastering .NET Web App Deployment: A Comprehensive Guide with Azure DevOps and Azure Pipelines]( https://github.com/akpatiudo/dotnetdevops)
 
-7 [Ansible Roles for Prometheus, Grafana and Nginx Reverse Proxy](https://medium.com/@ebenezerakpati/ansible-roles-for-prometheus-grafana-and-nginx-reverse-proxy-3989067d6588)
+-  [Ansible Roles for Prometheus, Grafana and Nginx Reverse Proxy](https://medium.com/@ebenezerakpati/ansible-roles-for-prometheus-grafana-and-nginx-reverse-proxy-3989067d6588)
 
-8 [Guide to Setting Up and Automating Tasks with Ansible](https://medium.com/@ebenezerakpati/guide-to-setting-up-and-automating-tasks-with-ansible-5ed31daab815)
+-  [Guide to Setting Up and Automating Tasks with Ansible](https://medium.com/@ebenezerakpati/guide-to-setting-up-and-automating-tasks-with-ansible-5ed31daab815)
 
-9 [Deploying a Web Server with Ansible](https://medium.com/@ebenezerakpati/deploying-a-web-server-with-ansible-7f7770fdcbd3)
+-  [Deploying a Web Server with Ansible](https://medium.com/@ebenezerakpati/deploying-a-web-server-with-ansible-7f7770fdcbd3)
 
-10 [Securely Accessing Provisioned Azure Resources with Key Vault in Azure Data Factory](https://medium.com/@ebenezerakpati/securely-accessing-provisioned-azure-resources-with-key-vault-in-azure-data-factory-cde9f66d7657)
+-  [Securely Accessing Provisioned Azure Resources with Key Vault in Azure Data Factory](https://medium.com/@ebenezerakpati/securely-accessing-provisioned-azure-resources-with-key-vault-in-azure-data-factory-cde9f66d7657)
 
-11 [Ansible Server And Nodes Setup with Azure: How To Give SUDO Permission To User, Configure Passwordless Login And Install Ansible Using EPEL Repository](https://medium.com/@ebenezerakpati/ansible-server-and-nodes-setup-with-azure-how-to-give-sudo-permission-to-user-configure-959b28c3742c)
+-  [Ansible Server And Nodes Setup with Azure: How To Give SUDO Permission To User, Configure Passwordless Login And Install Ansible Using EPEL Repository](https://medium.com/@ebenezerakpati/ansible-server-and-nodes-setup-with-azure-how-to-give-sudo-permission-to-user-configure-959b28c3742c)
 
-12 [Deploying a Multi-Container Application to Azure Kubernetes Services](https://medium.com/@ebenezerakpati/deploying-a-multi-container-application-to-azure-kubernetes-services-7838df11d14e)
+-  [Deploying a Multi-Container Application to Azure Kubernetes Services](https://medium.com/@ebenezerakpati/deploying-a-multi-container-application-to-azure-kubernetes-services-7838df11d14e)
 
-13 [Steps to Set Up Prometheus and Grafana on Kubernetes Using Helm](https://medium.com/@ebenezerakpati/steps-to-set-up-prometheus-and-grafana-on-kubernetes-using-helm-ca0e5649ed28)
+-  [Steps to Set Up Prometheus and Grafana on Kubernetes Using Helm](https://medium.com/@ebenezerakpati/steps-to-set-up-prometheus-and-grafana-on-kubernetes-using-helm-ca0e5649ed28)
 
 ### Socials
 
