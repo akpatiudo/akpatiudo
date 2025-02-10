@@ -53,6 +53,10 @@ As a passionate DevOps engineer, I thrive on creating efficient, automated, and 
 
 -  [osTicket Lifecycle: Intake And Resolution](https://github.com/akpatiudo/osTicket-lifecycle)
 
+###  Interview Tasks (Office 365 Setup And Network Setup Lab)
+-  [IT Support Technician – Office 365 Setup Lab: An Interview Task For HelpDesk Support](https://github.com/akpatiudo/helpdesk-m365task/tree/main)
+
+-  [IT Support Technician – Network Setup Lab: An Interview Task For HelpDesk Support](https://github.com/akpatiudo/AD_virtualbox)
 
 <h2>👨‍💻 DevOps Projects:</h2>
 
