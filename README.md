@@ -46,6 +46,12 @@ As a passionate DevOps engineer, I thrive on creating efficient, automated, and 
 
 -  [Shared Network Files And Permissions in Azure](https://github.com/akpatiudo/shared-network-file/tree/main)
 
+### Network Simulation In Cisco
+-  [Full Internet Simulation IN Packet Tracer Part One](https://github.com/akpatiudo/network_cisco)
+
+-  [Full Internet Simulation IN Packet Tracer Part Two: Add Server, Configure Smart Access Point, and Connect Smartphones](https://github.com/akpatiudo/networksimulation)
+
+
 ### osTicket (Help Desk Ticketing System)
 -  [osTicket Helpdesk Ticketing System Lab: From Installation to Ticket Lifecycle](https://github.com/akpatiudo/oSticket-lab)
 
