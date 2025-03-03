@@ -51,6 +51,8 @@ As a passionate DevOps engineer, I thrive on creating efficient, automated, and 
 
 -  [Full Internet Simulation IN Packet Tracer Part Two: Add Server, Configure Smart Access Point, and Connect Smartphones](https://github.com/akpatiudo/networksimulation)
 
+-  [Cisco Three Department Office Network Lab Setup](https://github.com/akpatiudo/officenetworklab)
+
 
 ### osTicket (Help Desk Ticketing System)
 -  [osTicket Helpdesk Ticketing System Lab: From Installation to Ticket Lifecycle](https://github.com/akpatiudo/oSticket-lab)
